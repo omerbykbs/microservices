@@ -21,8 +21,6 @@ Rather than relying on **one giant system**, microservices work like a **team of
 ## 📂 Project Resources
 Check out the **source code and architecture diagrams (databases & microservices)** in the link below:  
 
-🔗 **[Source Code & Diagrams](your-link-here)**
-
 ## 🛠 Technologies Used
 - Spring Boot
 - Eureka Server (Service Discovery)
