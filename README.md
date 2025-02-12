@@ -36,7 +36,6 @@ Check out the **source code and architecture diagrams (databases & microservices
    ```sh
    cd your-repo
    ```
-   ```
 3. Access the services via API Gateway at:
    ```
    http://localhost:8080/
