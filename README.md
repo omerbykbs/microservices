@@ -1,15 +1,51 @@
-# Microservices - A Modular Approach to Development # 
-I wanted to explore microservices by creating a small application based on the concepts covered in lectures.
+# Microservices - A Modular Approach to Development
 
-## Concept Overview ## 
-Think of microservices as Lego blocks—instead of building a single, massive structure, each block (microservice) has a specific function and can be swapped, upgraded, or added independently.
+After developing a monolithic website (**Sanal Tavsiye**), I wanted to explore microservices by creating a small application based on the concepts covered in lectures.
 
-Rather than relying on one giant system, microservices function like a team of superheroes—each service has its own unique "superpower" and works together seamlessly. This architecture offers: \n
-✅ Flexibility – Easily modify or scale individual services. 
-✅ Speed – Faster development and deployment cycles.
-✅ Manageability – Each service is independent and easier to maintain.
-✅ Resilience – Updates can be made without disrupting the entire system.
+## 🚀 Concept Overview
+Microservices function like **Lego blocks**—instead of building a single, massive structure, each block (microservice) has a specific function and can be swapped, upgraded, or added independently.
 
-Check out the source code and architecture diagrams (databases & microservices) in the link below:
+Rather than relying on **one giant system**, microservices work like a **team of superheroes**—each service has its own unique capability and works together seamlessly. This architecture offers:
 
-🔗 Source Code & Diagrams
+✅ **Flexibility** – Easily modify or scale individual services.  
+✅ **Speed** – Faster development and deployment cycles.  
+✅ **Manageability** – Each service is independent and easier to maintain.  
+✅ **Resilience** – Updates can be made without disrupting the entire system.  
+
+## 📌 Features
+- **Decoupled Microservices** for better scalability and maintenance.
+- **Independent Databases** to ensure autonomy between services.
+- **API Communication** between microservices.
+- **Efficient Deployment** using containerization and orchestration.
+
+## 📂 Project Resources
+Check out the **source code and architecture diagrams (databases & microservices)** in the link below:  
+
+🔗 **[Source Code & Diagrams](your-link-here)**
+
+## 🛠 Technologies Used
+- Spring Boot
+- Eureka Server (Service Discovery)
+- API Gateway
+- PostgreSQL / Mongo Databases
+
+## 📜 How to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-repo.git
+   ```
+2. Navigate into the project directory:
+   ```sh
+   cd your-repo
+   ```
+   ```
+3. Access the services via API Gateway at:
+   ```
+   http://localhost:8080/
+   ```
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repo, submit pull requests, or open issues.
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
