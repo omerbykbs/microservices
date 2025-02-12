@@ -1,6 +1,6 @@
 # Microservices - A Modular Approach to Development
 
-After developing a monolithic website (**Sanal Tavsiye**), I wanted to explore microservices by creating a small application based on the concepts covered in lectures.
+I wanted to explore microservices by creating a small application based on the concepts covered in lectures.
 
 ## 🚀 Concept Overview
 Microservices function like **Lego blocks**—instead of building a single, massive structure, each block (microservice) has a specific function and can be swapped, upgraded, or added independently.
