@@ -1,3 +1,9 @@
 [submodule "eurekaserver"]
 	path = eurekaserver
 	url = https://github.com/omerbykbs/eurekaserver.git
+[submodule "funservice"]
+	path = funservice
+	url = https://github.com/omerbykbs/funservice.git
+[submodule "profileandcommentservice"]
+	path = profileandcommentservice
+	url = https://github.com/omerbykbs/profileandcommentservice.git
