@@ -27,19 +27,5 @@ Check out the **source code and architecture diagrams (databases & microservices
 - API Gateway
 - PostgreSQL / Mongo Databases
 
-## 📜 How to Run the Project
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   ```
-2. Navigate into the project directory:
-   ```sh
-   cd your-repo
-   ```
-3. Access the services via API Gateway at:
-   ```
-   http://localhost:8080/
-   ```
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, submit pull requests, or open issues.
